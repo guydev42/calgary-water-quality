@@ -94,7 +94,7 @@ project_10_water_quality_anomaly_detection/
 
 ```bash
 # Clone the repository
-git clone https://github.com/olag-portfolio/calgary-water-quality.git
+git clone https://github.com/guydev42/calgary-water-quality.git
 cd calgary-water-quality
 
 # Install dependencies
@@ -154,5 +154,5 @@ Data provided by the [City of Calgary Open Data Portal](https://data.calgary.ca/
 </p>
 
 <p align="center">
-  Built by <a href="https://github.com/olag-portfolio">Ola G</a>
+  Built by <a href="https://github.com/guydev42">Ola K.</a>
 </p>
